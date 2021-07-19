@@ -1,0 +1,136 @@
+.slider_yazi p {
+    text-align: left;
+    font-family: monospace;
+    color: #fff ;
+    padding-left: 20px;}
+
+  .slider_yazi h2 {
+  	text-align: left;
+  	font-family: monospace;
+  	color: #031b60;
+  	padding-left: 20px;
+  	  }
+  	  .arkaplan_slider {
+  	background-color: blue;
+  	border-radius: 100px;
+  }
+  .slider img {
+    text-align: center;
+  }
+     
+  }
+  .aciklama_yazi h2 {
+  	text-align: left;
+  	font-family: monospace;
+  	color: #031b60;
+  	padding-top: 30px;
+  	padding-left:80px;
+  }
+  .aciklama_yazi p {
+  	text-align: left;
+  	font-family: monospace;
+  	color: #031b60;
+  	padding-left: 20px;
+
+  }
+
+  .arkaplan {
+  	background-color: #ffeaf4;
+  	border-radius: 100px;
+  }
+.kutu {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+}
+
+.kutu-bir {
+  flex: 1;
+  background: #fff;
+  max-width:23%;
+  padding: 5px;
+  height: 350px;
+  margin:1%;
+  flex-shrink:1;
+  flex-basis:23%;
+  box-sizing:border-box;
+  border-style:solid;
+  border-radius: 30px;
+  border-color: #fff;
+}
+.kutu-iki {
+  flex: 1;
+  background: #fff;
+  max-width:23%;
+  padding: 5px;
+  height: 350px;
+  margin:1%;
+  flex-shrink:1;
+  flex-basis:23%;
+  box-sizing:border-box;
+  border-style:solid;
+  border-radius: 30px;
+  border-color: #fff;
+}
+.kutu-uc {
+  flex: 1;
+  background:#fff;
+  max-width:23%;
+  padding: 5px;
+  height: 350px;
+  margin:1%;
+  flex-shrink:1;
+  flex-basis:23%;
+  box-sizing:border-box;
+  border-style:solid;
+  border-radius: 30px;
+  border-color: #fff;
+}
+.kutu-dort {
+  flex: 1;
+  background:#fff;
+  max-width:23%;
+  padding: 5px;
+  height: 350px;
+  margin:1%;
+  flex-shrink:1;
+  flex-basis:23%;
+  box-sizing:border-box;
+  border-style:solid;
+  border-radius: 30px;
+  border-color: #fff;
+}
+
+.kutu-1_resim img {
+  position: relative;
+      right: -85px;
+      top: 80px;
+}
+
+.kutu-2_resim img {
+  position: relative;
+      right: -85px;
+      top: 80px;
+}
+
+.kutu-3_resim img {
+  position: relative;
+      right: -85px;
+      top: 90px;
+
+}
+
+.kutu-4_resim img {
+  position: relative;
+      right: -85px;
+      top: 80px;
+}
+
+.yazi {
+  font-family: monospace;
+  font-size: 40px;
+  color: #adadad;
+}
